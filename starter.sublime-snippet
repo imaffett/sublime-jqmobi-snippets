@@ -58,7 +58,7 @@
 	</body>
 </html>
 ]]></content>
-	<tabTrigger>jqmstub</tabTrigger>
+	<tabTrigger>jquistub</tabTrigger>
 	<description>jqUi stub</description>
 	<scope>text.html</scope>\
 </snippet>
