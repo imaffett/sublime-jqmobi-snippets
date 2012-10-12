@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+  <header id="${1}">
+	<a class="button backButton"></a><h1>Page Title</h1>
+  </header>
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jquiheader</tabTrigger>
+  <description>jqUi header</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+  <footer id="${1}">
+	<a class="icon home" href="#main">Home</a>
+  </footer>
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jquifooter</tabTrigger>
+  <description>jqUi footer</description>
+</snippet>

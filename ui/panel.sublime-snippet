@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+  <div class="panel" id="${1}" title="${2}" data-footer="${3}" data-header="${4}" data-nav="${5}" data-load="${6}" data-unload="${7}">
+  </div>
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jquipanel</tabTrigger>
+  <description>jqUi panel</description>
+</snippet>

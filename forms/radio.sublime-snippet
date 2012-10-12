@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+  <input type='radio' class="jq-ui-forms" id="${1}" value="${2}" placeholder="${3}"><label for="${4}">${5}</label>
+ 
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jquiradio</tabTrigger>
+  <description>jqUi radio field</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+  <ul>
+	<li><a href="#">List Item</a></li>
+	</ul>
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jquilist</tabTrigger>
+  <description>jqUi list</description>
+</snippet>

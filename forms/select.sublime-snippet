@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+  <select class="jq-ui-forms" id="${1}">${2}</select>
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jquiselect</tabTrigger>
+  <description>jqUi select field</description>
+</snippet>

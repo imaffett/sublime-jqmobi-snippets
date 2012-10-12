@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+  <nav id="${1}">
+	Side Menu
+  </nav>
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jquinav</tabTrigger>
+  <description>jqUi nav</description>
+</snippet>

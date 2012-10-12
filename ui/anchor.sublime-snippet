@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+  <a href="#${1}" data-transition="slide">${2}</a>
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jquianchor</tabTrigger>
+  <description>jqUi anchor</description>
+</snippet>
